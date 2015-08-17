@@ -13,7 +13,7 @@ Task will have the name ``'clean'``.
 
 ##### clean
 
-Parameter for cleaning a folder or file;
+Parameter for cleaning a folder or file.
 
 *Example:*
 
