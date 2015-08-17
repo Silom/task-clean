@@ -1,5 +1,5 @@
 {
-  "name": "task-clean",
+  "name": "task-gulp-clean",
   "version": "0.0.1",
   "description": "Clean task for gulp, ready to use.",
   "author": "Valentin Wetenkamp <valentin.wetenkamp@googlemail.com>",
