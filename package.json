@@ -1,0 +1,24 @@
+{
+  "name": "task-clean",
+  "version": "0.0.1",
+  "description": "Clean task for gulp, ready to use.",
+  "author": "Valentin Wetenkamp <valentin.wetenkamp@googlemail.com>",
+  "main": "index.js",
+  "keywords": [
+    "gulp",
+    "task",
+    "precreated",
+    "clean"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Silom/task-clean.git"
+  },
+  "scripts": {
+    "setup": "npm install"
+  },
+  "dependencies": {
+    "rimraf": "^2.4.2"
+  }
+}
